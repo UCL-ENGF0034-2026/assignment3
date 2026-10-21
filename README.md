@@ -34,7 +34,7 @@ Cross the road avoiding cars, cross the river by jumping on logs or turtles, and
 Please submit your bug reports as one file (txt or PDF) and your fixed python source code file(s). No need to zip them, multiple files can be uploaded.
 
 Upload your completed files directly to Moodle:
-👉 [Moodle Assignment 3 Link](https://moodle.ucl.ac.uk/mod/url/view.php?id=9108707) / [Moodle Course Page](https://moodle.ucl.ac.uk/course/view.php?id=60820)
+👉 [Moodle Assignment 3 Submission Point](https://moodle.ucl.ac.uk/mod/assign/view.php?id=9108708)
 
 ## Your Task
 
@@ -70,7 +70,10 @@ Experienced programmers may consider extending the game after fixing bugs:
 - Improve level progression difficulty
 - Other creative enhancements
 
-You can upload your extended game. You won't get any extra marks, but we are curious what you can achieve.
+You can upload your extended game to Moodle:
+👉 [Moodle Optional Extension Submission Point](https://moodle.ucl.ac.uk/mod/assign/view.php?id=9108709)
+
+You won't get any extra marks, but we are curious what you can achieve.
 
 ## Troubleshooting
 
