@@ -49,7 +49,7 @@ Upload your completed files directly to Moodle:
 
 ## Deadline
 
-Monday 2nd November at 12 noon (midday)
+Monday 2nd November at 23:59
 
 ## Debugging Tips
 
